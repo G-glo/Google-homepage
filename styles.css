@@ -1,0 +1,44 @@
+body{
+    margin:auto;
+    padding:auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+homepage{
+    background-color: honeydew;
+    text-align: center;
+    text-overflow:hidden;
+    text-decoration-color: indigo;
+}
+.search-icon-mic{
+    position:absolute;
+    height: 0px;
+    widows: 2.2em;
+    font-size: 1.1rem;
+}
+.form{
+    margin-inline: 8px;
+    display: -moz-inline-box
+    padding: 7px;
+    border-radius:2px;
+    font-weight: light
+}
+header{
+    text-align: left;
+    text-decoration-color: black;
+    width: 98px;
+    .li{
+        list-style: align-items: word-wrap: flex-wrap: ;;;;
+    }
+    .top-footer-left{
+        text-align: left;
+        text-emphasis-color: blue;
+        text-size-adjust: flex;
+        text-decoration-style: dashed;
+    }
+    .bottom-footer-right{
+        text-align: start ;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: small;
+        font-weight: normal;
+    }
+}
